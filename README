@@ -1,5 +1,7 @@
 This is twitter tweet grabber for WebGUI http://webgui.org
 
+It searches for a string that you can specify in the properties tab, but also has a search box. By default it displays 20 tweets.
+
 To Install:
 
 copy the TweetGrabber.pm file to ../lib/WebGUI/Asset/Wobject
