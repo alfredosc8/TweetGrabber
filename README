@@ -3,9 +3,8 @@ This is twitter tweet grabber for WebGUI http://webgui.org
 To Install:
 
 copy the TweetGrabber.pm file to ../lib/WebGUI/Asset/Wobject
-
-$ wgd util /data/WebGUI/sbin/installClass.pl WebGUI::Asset::Wobject::TweetGrabber --configFile=dev.localhost.localdomain
+$ wgd util /data/WebGUI/sbin/installClass.pl WebGUI::Asset::Wobject::TweetGrabber --configFile=dev.localhost.localdomain.conf (for example)
 
 To Uninstall
-$ wgd util /data/WebGUI/sbin/installClass.pl --remove WebGUI::Asset::Wobject::TweetGrabber --configFile=dev.localhost.localdomain
+$ wgd util /data/WebGUI/sbin/installClass.pl --remove WebGUI::Asset::Wobject::TweetGrabber --configFile=dev.localhost.localdomain.conf (for example)
 
